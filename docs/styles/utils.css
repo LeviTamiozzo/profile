@@ -1,0 +1,21 @@
+.fixed {
+	position: fixed;
+}
+
+.full-height {
+	min-height: 100vh;
+}
+
+.d-flex-col-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.d-flex-row-center {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
